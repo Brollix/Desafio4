@@ -1,0 +1,19 @@
+body{
+    font-family: 'Roboto',
+    monospace;
+    background: black;
+}
+
+.titulo{
+    color: black;
+    text-align: center;
+    background-color:bisque;
+    max-width: 50%;
+    margin: auto;
+}
+
+.fotos{
+    size: 0.1rem;
+    align-self: center;
+    margin: auto;
+}
